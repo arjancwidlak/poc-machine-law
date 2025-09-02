@@ -155,9 +155,14 @@ script/test-behaviour
 ```
 
 Run UI tests
+# Activate virtual environment and 
 ```bash
-# Install Playwright
+source .venv/bin/activate
+```
+# install Playwright
+```bash
 playwright install
+```
 
 # Run tests
 script/test-ui
