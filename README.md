@@ -136,6 +136,8 @@ Vooralsnog zijn deze wetten geïmplementeerd in `machine law` (met behulp van ee
 Clone deze repository:
 ```bash
 git clone git@github.com:MinBZK/poc-machine-law.git
+```
+```bash
 cd poc-machine-law
 ```
 
